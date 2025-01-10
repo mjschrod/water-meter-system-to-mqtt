@@ -1,3 +1,8 @@
+Fork of https://github.com/paulianttila/water-meter-system 
+Target incorporate code for sending values to mqtt-server.
+Progess: 0 %  :)
+
+
 # Meter digitizer
 
 Meter digitizer to readout of an analog and digital meters with the help of a camera, image processing and neural network processing.
