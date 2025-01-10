@@ -1,5 +1,6 @@
 Fork of https://github.com/paulianttila/water-meter-system 
-Target incorporate code for sending values to mqtt-server.
+
+Target:  incorporate code for sending values to mqtt-server.
 Progess: 0 %  :)
 
 
